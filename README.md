@@ -4,7 +4,7 @@ The computational biology folder contains codes/algorithms that I wrote for vari
 
 The computer vision folder contains projects that I did related to the field of computer vision, the projects were written in Jupyter Notebooks. The images in the folder are the ones used in the notebooks.
 
-Most of my codes written for my Master's project have not been uploaded as they are being used for research that is currently ongoing, and for papers that are being written.
+The Thesis scripts are the most recent I've written. They are some of the scripts that I am using while working on my master's thesis
 
 Let me know if you have any questions.
 
