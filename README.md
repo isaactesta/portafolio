@@ -4,7 +4,7 @@ The data_process folder contains some sample scripts that I have used to clean, 
 
 The periods_seizure folder contains some samples scripts that I used to determine periodicity in long term data series, compare periodic components between different time serires, and perform statistically analysis regarding the correlation with epileptic seizures.
 
-The Miscellanious Scripts folder contains some other 
+The Miscellanious Scripts folder contains some shorter projects I have worked on. Including a few algorithms commonly used in computational biology, and an EEG source localization project.
 
 Let me know if you have any questions or if you would like to see some more examples fo codes/projects I have worked at in the past.
 
